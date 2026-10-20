@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Music",
+  "description": "Offline-ready modern music player with synchronized lyrics, custom equalizer, sleep timer, playlists, and personalized audio recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
